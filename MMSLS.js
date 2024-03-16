@@ -19,7 +19,7 @@ const MMSLS = [
 =====================请在下面编辑=====================
  */
 const MMSLS = [
-    "https://www.maimemo.com/share/page?uid=9357519&pid=c3bf24877e6aee790cd4ef067274a7d0&tid=8943912ff2b3243309966e7c22514318",]
+    "https://www.maimemo.com/share/page?uid=9357519&pid=fe83afc9ed97d32654b1d8ebe561d846&tid=c161ccd743a1854171980ade049309a6",]
   /**
    * 生成随机数字
    * @param {number} min 最小值（包含）
